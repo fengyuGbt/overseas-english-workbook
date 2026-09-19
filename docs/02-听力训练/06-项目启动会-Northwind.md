@@ -2,7 +2,7 @@
 
 > 场景：kickoff call（美音）｜角色：Tom，Northwind PM
 > 主题：三个月时间线、里程碑、GitHub 协作、Jira、预算
-> 音频：https://aka.doubaocdn.com/s/msZOt3MkcN
+> 音频：audio/06.mp3（仓库内文件，可在线播放）
 
 ## 原文脚本
 

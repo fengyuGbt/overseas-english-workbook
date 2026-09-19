@@ -2,7 +2,7 @@
 
 > 场景：客户电话谈价（美音）｜角色：Mark，Horizon Data
 > 主题：砍价 9000→7500 + 50% 预付、4 周第一里程碑、每周英文进度报告
-> 音频：https://aka.doubaocdn.com/s/iBZ5tVp5qX
+> 音频：audio/04.mp3（仓库内文件，可在线播放）
 
 ## 原文脚本
 

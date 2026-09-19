@@ -2,7 +2,7 @@
 
 > 场景：技术摸底 discovery call（美音）｜角色：Sarah，Northwind Labs
 > 主题：Python + AWS 数据管道、ETL、时区重叠、NDA/SOW
-> 音频：https://aka.doubaocdn.com/s/rbtgaxsX2m
+> 音频：audio/05.mp3（仓库内文件，可在线播放）
 
 ## 原文脚本
 

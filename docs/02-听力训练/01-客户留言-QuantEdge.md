@@ -2,7 +2,7 @@
 
 > 场景：客户留言（美音，约 1 分钟）｜角色：Daniel Park，QuantEdge Analytics
 > 主题：询盘——可用性 + 粗略报价 + 英文文档 + 视频通话
-> 音频：https://aka.doubaocdn.com/s/icns4I3lJk
+> 音频：audio/01.mp3（仓库内文件，可在线播放）
 
 ## 原文脚本
 
